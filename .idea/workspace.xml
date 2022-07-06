@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08d2138-32f0-4bfc-abfd-4f05c01c74a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/pull-request-CI.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/kern/PycharmProjects/test1/.github/workflows"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kern/PycharmProjects/test1/.github/workflows&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +85,42 @@
       <option name="project" value="LOCAL" />
       <updated>1656519175159</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add ckecker">
+      <created>1656932378026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656932378026</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add ckecker">
+      <created>1656932545053</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656932545053</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix ckecker">
+      <created>1656933378286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656933378286</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix ckecker2">
+      <created>1656933485545</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656933485545</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix(ci): new commit message">
+      <created>1656933577028</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656933577028</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +130,10 @@
     <MESSAGE value="final" />
     <MESSAGE value="test" />
     <MESSAGE value="error" />
-    <option name="LAST_COMMIT_MESSAGE" value="error" />
+    <MESSAGE value="add ckecker" />
+    <MESSAGE value="fix ckecker" />
+    <MESSAGE value="fix ckecker2" />
+    <MESSAGE value="fix(ci): new commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(ci): new commit message" />
   </component>
 </project>
