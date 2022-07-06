@@ -30,5 +30,4 @@ jobs:
           excludeDescription: true # optional, default is false
           # Setting this input to true will check all Pull Request commits
           checkAllCommitMessages: true # optional, default is false
-          # you must provide GITHUB_TOKEN to this input if checkAllCommitMessages is true
-          accessToken: ${{ secrets.GITHUB_TOKEN }} # optional, default is false
+
